@@ -1,0 +1,15 @@
+[submodule "01-javascript-syntax"]
+	path = 01-javascript-syntax
+	url = https://github.com/ErickWendel/javascript-syntax-yt.git
+[submodule "02-closures-iife-scope"]
+	path = 02-closures-iife-scope
+	url = https://github.com/ErickWendel/closures-iffe-functions-scope-this-yt.git
+[submodule "03-tdd-javascript"]
+	path = 03-tdd-javascript
+	url = https://github.com/ErickWendel/tdd-javascript-yt.git
+[submodule "04-promises"]
+	path = 04-promises
+	url = https://github.com/ErickWendel/mastering-promises-yt.git
+[submodule "05-generators-iterators"]
+	path = 05-generators-iterators
+	url = https://github.com/ErickWendel/generators-iterators-yt.git
